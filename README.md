@@ -1,2 +1,2 @@
 # Cliente-Servidor
-Xat de texto en JAVA
+chat entre ordenadores en JAVA
